@@ -1,5 +1,5 @@
 ```sh
-$ docker run ghcr.io/hashtagchris/octocatsay:latest "greetings!"
+$ docker run ghcr.io/hashtagchris/octocatsay:latest 'greetings!'
 
            MMM.           .MMM
            MMMMMMMMMMMMMMMMMMM
